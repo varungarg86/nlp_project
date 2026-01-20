@@ -1,0 +1,351 @@
+Review_ID,Stemming,Lemmatization
+1,"Porter: the new devic is sleek and fast . i love the camera qualiti !
+Snowball: the new devic is sleek and fast . i love the camera qualiti !
+Lancaster: the new dev is sleek and fast . i lov the camer qual !
+Krovetz: the new device is sleek and fast . i love the camera quality !","SpaCy: the new device be sleek and fast . I love the camera quality !
+TextBlob: The new device is sleek and fast I love the camera quality
+Stanza: the new device be sleek and fast . I love the camera quality !
+WordNet: the new device be sleek and fast . i love the camera quality !"
+2,"Porter: amaz display and batteri life , but the price is a bit high .
+Snowball: amaz display and batteri life , but the price is a bit high .
+Lancaster: amaz display and battery lif , but the pric is a bit high .
+Krovetz: amazing display and battery life , but the price is a bit high .","SpaCy: amazing display and battery life , but the price be a bit high .
+TextBlob: Amazing display and battery life but the price is a bit high
+Stanza: amazing display and battery life , but the price be a bit high .
+WordNet: amazing display and battery life , but the price be a bit high ."
+3,"Porter: i had a few issu with the initi setup , but custom servic wa veri help .
+Snowball: i had a few issu with the initi setup , but custom servic was veri help .
+Lancaster: i had a few issu with the init setup , but custom serv was very help .
+Krovetz: i had a few issue with the initial setup , but customer service was very helpful .","SpaCy: I have a few issue with the initial setup , but customer service be very helpful .
+TextBlob: I had a few issue with the initial setup but customer service wa very helpful
+Stanza: I have a few issue with the initial setup , but customer service be very helpful .
+WordNet: i have a few issue with the initial setup , but customer service be very helpful ."
+4,"Porter: solid perform overal ; the design is veri modern .
+Snowball: solid perform overal ; the design is veri modern .
+Lancaster: solid perform overal ; the design is very modern .
+Krovetz: solid performance overall ; the design is very modern .","SpaCy: solid performance overall ; the design be very modern .
+TextBlob: Solid performance overall the design is very modern
+Stanza: solid performance overall ; the design be very modern .
+WordNet: solid performance overall ; the design be very modern ."
+5,"Porter: the devic exceed my expect in everi way .
+Snowball: the devic exceed my expect in everi way .
+Lancaster: the dev excess my expect in every way .
+Krovetz: the device exceed my expectations in every way .","SpaCy: the device exceed my expectation in every way .
+TextBlob: The device exceeded my expectation in every way
+Stanza: the device exceed my expectation in every way .
+WordNet: the device exceed my expectation in every way ."
+6,"Porter: decent phone with great featur , though the softwar could be improv .
+Snowball: decent phone with great featur , though the softwar could be improv .
+Lancaster: dec phon with gre feat , though the softw could be improv .
+Krovetz: decent phone with great features , though the software could be improve .","SpaCy: decent phone with great feature , though the software could be improve .
+TextBlob: Decent phone with great feature though the software could be improved
+Stanza: Decent phone with great feature , though the software could be improve .
+WordNet: decent phone with great feature , though the software could be improve ."
+7,"Porter: the batteri last all day , even with heavi usag .
+Snowball: the batteri last all day , even with heavi usag .
+Lancaster: the battery last al day , ev with heavy us .
+Krovetz: the battery last all day , even with heavy usage .","SpaCy: the battery last all day , even with heavy usage .
+TextBlob: The battery last all day even with heavy usage
+Stanza: the battery last all day , even with heavy usage .
+WordNet: the battery last all day , even with heavy usage ."
+8,"Porter: excel build qualiti and perform . highli recommend .
+Snowball: excel build qualiti and perform . high recommend .
+Lancaster: excel build qual and perform . high recommend .
+Krovetz: excellent build quality and performance . highly recommend .","SpaCy: excellent build quality and performance . highly recommend .
+TextBlob: Excellent build quality and performance Highly recommended
+Stanza: excellent build quality and performance . highly recommend .
+WordNet: excellent build quality and performance . highly recommended ."
+9,"Porter: had a minor glitch with the fingerprint sensor , but overal a good purchas .
+Snowball: had a minor glitch with the fingerprint sensor , but overal a good purchas .
+Lancaster: had a min glitch with the fingerprint sens , but overal a good purchas .
+Krovetz: had a minor glitch with the fingerprint sensor , but overall a good purchase .","SpaCy: have a minor glitch with the fingerprint sensor , but overall a good purchase .
+TextBlob: Had a minor glitch with the fingerprint sensor but overall a good purchase
+Stanza: have a minor glitch with the fingerprint sensor , but overall a good purchase .
+WordNet: have a minor glitch with the fingerprint sensor , but overall a good purchase ."
+10,"Porter: a well-design phone with fast perform . a bit pricey but worth it .
+Snowball: a well-design phone with fast perform . a bit pricey but worth it .
+Lancaster: a well-designed phon with fast perform . a bit pricey but wor it .
+Krovetz: a well-designed phone with fast performance . a bit pricey but worth it .","SpaCy: a well - design phone with fast performance . a bit pricey but worth it .
+TextBlob: A well-designed phone with fast performance A bit pricey but worth it
+Stanza: a well - design phone with fast performance . a bit pricey but worth it .
+WordNet: a well-designed phone with fast performance . a bit pricey but worth it ."
+11,"Porter: the camera is outstand , perfect for low-light photographi .
+Snowball: the camera is outstand , perfect for low-light photographi .
+Lancaster: the camer is outstand , perfect for low-light photograph .
+Krovetz: the camera is outstanding , perfect for low-light photography .","SpaCy: the camera be outstanding , perfect for low - light photography .
+TextBlob: The camera is outstanding perfect for low-light photography
+Stanza: the camera be outstanding , perfect for low - light photography .
+WordNet: the camera be outstanding , perfect for low-light photography ."
+12,"Porter: i am impress with the process power and screen clariti .
+Snowball: i am impress with the process power and screen clariti .
+Lancaster: i am impress with the process pow and screen clar .
+Krovetz: i am impress with the process power and screen clarity .","SpaCy: I be impressed with the processing power and screen clarity .
+TextBlob: I am impressed with the processing power and screen clarity
+Stanza: I be impressed with the processing power and screen clarity .
+WordNet: i be impress with the process power and screen clarity ."
+13,"Porter: batteri life is superb , though i wish there were more color option .
+Snowball: batteri life is superb , though i wish there were more color option .
+Lancaster: battery lif is superb , though i wish ther wer mor col opt .
+Krovetz: battery life is superb , though i wish there were more color option .","SpaCy: battery life be superb , though I wish there be more color option .
+TextBlob: Battery life is superb though I wish there were more color option
+Stanza: battery life be superb , though I wish there be more color option .
+WordNet: battery life be superb , though i wish there be more color option ."
+14,"Porter: the user interfac is intuit and easi to navig .
+Snowball: the user interfac is intuit and easi to navig .
+Lancaster: the us interfac is intuit and easy to navig .
+Krovetz: the user interface is intuitive and easy to navigate .","SpaCy: the user interface be intuitive and easy to navigate .
+TextBlob: The user interface is intuitive and easy to navigate
+Stanza: the user interface be intuitive and easy to navigate .
+WordNet: the user interface be intuitive and easy to navigate ."
+15,"Porter: great phone for everyday use , but the storag option are limit .
+Snowball: great phone for everyday use , but the storag option are limit .
+Lancaster: gre phon for everyday us , but the stor opt ar limit .
+Krovetz: great phone for everyday use , but the storage option are limited .","SpaCy: great phone for everyday use , but the storage option be limited .
+TextBlob: Great phone for everyday use but the storage option are limited
+Stanza: great phone for everyday use , but the storage option be limit .
+WordNet: great phone for everyday use , but the storage option be limit ."
+16,"Porter: veri respons and fast . the design feel premium .
+Snowball: veri respons and fast . the design feel premium .
+Lancaster: very respond and fast . the design feel prem .
+Krovetz: very responsive and fast . the design feel premium .","SpaCy: very responsive and fast . the design feel premium .
+TextBlob: Very responsive and fast The design feel premium
+Stanza: very responsive and fast . the design feel premium .
+WordNet: very responsive and fast . the design feels premium ."
+17,"Porter: the devic heat up a bit dure heavi game session .
+Snowball: the devic heat up a bit dure heavi game session .
+Lancaster: the dev heat up a bit dur heavy gam sess .
+Krovetz: the device heat up a bit during heavy game sessions .","SpaCy: the device heat up a bit during heavy gaming session .
+TextBlob: The device heat up a bit during heavy gaming session
+Stanza: the device heat up a bit during heavy gaming session .
+WordNet: the device heat up a bit during heavy gaming session ."
+18,"Porter: impress by the high-resolut display and overal perform .
+Snowball: impress by the high-resolut display and overal perform .
+Lancaster: impress by the high-resolution display and overal perform .
+Krovetz: impress by the high-resolution display and overall performance .","SpaCy: impressed by the high - resolution display and overall performance .
+TextBlob: Impressed by the high-resolution display and overall performance
+Stanza: impress by the high - resolution display and overall performance .
+WordNet: impress by the high-resolution display and overall performance ."
+19,"Porter: sleek design and robust featur ; minor issu with the softwar updat .
+Snowball: sleek design and robust featur ; minor issu with the softwar updat .
+Lancaster: sleek design and robust feat ; min issu with the softw upd .
+Krovetz: sleek design and robust features ; minor issue with the software update .","SpaCy: sleek design and robust feature ; minor issue with the software update .
+TextBlob: Sleek design and robust feature minor issue with the software update
+Stanza: sleek design and robust feature ; minor issue with the software update .
+WordNet: sleek design and robust feature ; minor issue with the software update ."
+20,"Porter: a remark mobil experi with excel sound qualiti .
+Snowball: a remark mobil experi with excel sound qualiti .
+Lancaster: a remark mobl expery with excel sound qual .
+Krovetz: a remarkable mobile experience with excellent sound quality .","SpaCy: a remarkable mobile experience with excellent sound quality .
+TextBlob: A remarkable mobile experience with excellent sound quality
+Stanza: a remarkable mobile experience with excellent sound quality .
+WordNet: a remarkable mobile experience with excellent sound quality ."
+21,"Porter: i love the fast charg featur ; it save a lot of time .
+Snowball: i love the fast charg featur ; it save a lot of time .
+Lancaster: i lov the fast charg feat ; it sav a lot of tim .
+Krovetz: i love the fast charge feature ; it save a lot of time .","SpaCy: I love the fast charging feature ; it save a lot of time .
+TextBlob: I love the fast charging feature it save a lot of time
+Stanza: I love the fast charging feature ; it save a lot of time .
+WordNet: i love the fast charging feature ; it save a lot of time ."
+22,"Porter: good overal perform , but i expect a better camera .
+Snowball: good overal perform , but i expect a better camera .
+Lancaster: good overal perform , but i expect a bet camer .
+Krovetz: good overall performance , but i expect a better camera .","SpaCy: good overall performance , but I expect a well camera .
+TextBlob: Good overall performance but I expected a better camera
+Stanza: good overall performance , but I expect a good camera .
+WordNet: good overall performance , but i expect a good camera ."
+23,"Porter: the devic feel veri futurist with it minimalist design .
+Snowball: the devic feel veri futurist with it minimalist design .
+Lancaster: the dev feel very fut with it minim design .
+Krovetz: the device feel very futuristic with its minimalist design .","SpaCy: the device feel very futuristic with its minimalist design .
+TextBlob: The device feel very futuristic with it minimalist design
+Stanza: the device feel very futuristic with its minimalist design .
+WordNet: the device feel very futuristic with it minimalist design ."
+24,"Porter: a balanc phone with strong perform and eleg design .
+Snowball: a balanc phone with strong perform and eleg design .
+Lancaster: a bal phon with strong perform and eleg design .
+Krovetz: a balanced phone with strong performance and elegant design .","SpaCy: a balanced phone with strong performance and elegant design .
+TextBlob: A balanced phone with strong performance and elegant design
+Stanza: a balance phone with strong performance and elegant design .
+WordNet: a balanced phone with strong performance and elegant design ."
+25,"Porter: custom servic realli help me out when i had a connect issu .
+Snowball: custom servic realli help me out when i had a connect issu .
+Lancaster: custom serv real help me out when i had a connect issu .
+Krovetz: customer service really help me out when i had a connective issue .","SpaCy: customer service really help I out when I have a connectivity issue .
+TextBlob: Customer service really helped me out when I had a connectivity issue
+Stanza: customer service really help I out when I have a connectivity issue .
+WordNet: customer service really help me out when i have a connectivity issue ."
+26,"Porter: batteri life is impress and the phone is super respons .
+Snowball: batteri life is impress and the phone is super respons .
+Lancaster: battery lif is impress and the phon is sup respond .
+Krovetz: battery life is impressive and the phone is super responsive .","SpaCy: battery life be impressive and the phone be super responsive .
+TextBlob: Battery life is impressive and the phone is super responsive
+Stanza: battery life be impressive and the phone be super responsive .
+WordNet: battery life be impressive and the phone be super responsive ."
+27,"Porter: the design is stun , but the devic sometim lag with multipl app open .
+Snowball: the design is stun , but the devic sometim lag with multipl app open .
+Lancaster: the design is stun , but the dev sometim lag with multipl ap op .
+Krovetz: the design is stunning , but the device sometimes lag with multiple app open .","SpaCy: the design be stunning , but the device sometimes lag with multiple app open .
+TextBlob: The design is stunning but the device sometimes lag with multiple apps open
+Stanza: the design be stunning , but the device sometimes lag with multiple app open .
+WordNet: the design be stunning , but the device sometimes lag with multiple apps open ."
+28,"Porter: i appreci the attent to detail in both hardwar and softwar .
+Snowball: i appreci the attent to detail in both hardwar and softwar .
+Lancaster: i apprecy the at to detail in both hardw and softw .
+Krovetz: i appreciate the attention to detail in both hardware and software .","SpaCy: I appreciate the attention to detail in both hardware and software .
+TextBlob: I appreciate the attention to detail in both hardware and software
+Stanza: I appreciate the attention to detail in both hardware and software .
+WordNet: i appreciate the attention to detail in both hardware and software ."
+29,"Porter: the user interfac is veri intuit , make it easi to use for everyon .
+Snowball: the user interfac is veri intuit , make it easi to use for everyon .
+Lancaster: the us interfac is very intuit , mak it easy to us for everyon .
+Krovetz: the user interface is very intuitive , making it easy to use for everyone .","SpaCy: the user interface be very intuitive , make it easy to use for everyone .
+TextBlob: The user interface is very intuitive making it easy to use for everyone
+Stanza: the user interface be very intuitive , make it easy to use for everyone .
+WordNet: the user interface be very intuitive , make it easy to use for everyone ."
+30,"Porter: a power phone with a great display , although it could use more storag option .
+Snowball: a power phone with a great display , although it could use more storag option .
+Lancaster: a pow phon with a gre display , although it could us mor stor opt .
+Krovetz: a powerful phone with a great display , although it could use more storage option .","SpaCy: a powerful phone with a great display , although it could use more storage option .
+TextBlob: A powerful phone with a great display although it could use more storage option
+Stanza: a powerful phone with a great display , although it could use more storage option .
+WordNet: a powerful phone with a great display , although it could use more storage option ."
+31,"Porter: overal a satisfi experi with a few minor bug .
+Snowball: overal a satisfi experi with a few minor bug .
+Lancaster: overal a satisfy expery with a few min bug .
+Krovetz: overall a satisfying experience with a few minor bug .","SpaCy: overall a satisfying experience with a few minor bug .
+TextBlob: Overall a satisfying experience with a few minor bug
+Stanza: overall a satisfy experience with a few minor bug .
+WordNet: overall a satisfying experience with a few minor bug ."
+32,"Porter: the build qualiti is top-notch and the batteri last long .
+Snowball: the build qualiti is top-notch and the batteri last long .
+Lancaster: the build qual is top-notch and the battery last long .
+Krovetz: the build quality is top-notch and the battery last long .","SpaCy: the build quality be top - notch and the battery last long .
+TextBlob: The build quality is top-notch and the battery last long
+Stanza: the build quality be top - notch and the battery last long .
+WordNet: the build quality be top-notch and the battery last long ."
+33,"Porter: i had a great experi ; the phone run smoothli even with heavi multitask .
+Snowball: i had a great experi ; the phone run smooth even with heavi multitask .
+Lancaster: i had a gre expery ; the phon run smooth ev with heavy multitask .
+Krovetz: i had a great experience ; the phone runs smooth even with heavy multitask .","SpaCy: I have a great experience ; the phone run smoothly even with heavy multitasking .
+TextBlob: I had a great experience the phone run smoothly even with heavy multitasking
+Stanza: I have a great experience ; the phone run smoothly even with heavy multitasking .
+WordNet: i have a great experience ; the phone run smoothly even with heavy multitasking ."
+34,"Porter: good perform and beauti design , but the price is slightli steep .
+Snowball: good perform and beauti design , but the price is slight steep .
+Lancaster: good perform and beauty design , but the pric is slight steep .
+Krovetz: good performance and beautiful design , but the price is slightly steep .","SpaCy: good performance and beautiful design , but the price be slightly steep .
+TextBlob: Good performance and beautiful design but the price is slightly steep
+Stanza: good performance and beautiful design , but the price be slightly steep .
+WordNet: good performance and beautiful design , but the price be slightly steep ."
+35,"Porter: the phone is fast and reliabl with an impress camera setup .
+Snowball: the phone is fast and reliabl with an impress camera setup .
+Lancaster: the phon is fast and rely with an impress camer setup .
+Krovetz: the phone is fast and reliable with an impressive camera setup .","SpaCy: the phone be fast and reliable with an impressive camera setup .
+TextBlob: The phone is fast and reliable with an impressive camera setup
+Stanza: the phone be fast and reliable with a impressive camera setup .
+WordNet: the phone be fast and reliable with an impressive camera setup ."
+36,"Porter: solid perform and clear display . it meet my daili need perfectli .
+Snowball: solid perform and clear display . it meet my daili need perfect .
+Lancaster: solid perform and clear display . it meet my dai nee perfect .
+Krovetz: solid performance and clear display . it meet my daily needs perfectly .","SpaCy: solid performance and clear display . it meet my daily need perfectly .
+TextBlob: Solid performance and clear display It meet my daily need perfectly
+Stanza: solid performance and clear display . it meet my daily need perfectly .
+WordNet: solid performance and clear display . it meet my daily need perfectly ."
+37,"Porter: i encount a softwar glitch on the first day , but it wa resolv quickli .
+Snowball: i encount a softwar glitch on the first day , but it was resolv quick .
+Lancaster: i encount a softw glitch on the first day , but it was resolv quick .
+Krovetz: i encounter a software glitch on the first day , but it was resolve quick .","SpaCy: I encounter a software glitch on the first day , but it be resolve quickly .
+TextBlob: I encountered a software glitch on the first day but it wa resolved quickly
+Stanza: I encounter a software glitch on the first day , but it be resolve quickly .
+WordNet: i encounter a software glitch on the first day , but it be resolve quickly ."
+38,"Porter: the mobil devic is innov and user-friendli . i ’ m veri happi with it .
+Snowball: the mobil devic is innov and user-friend . i ’ m veri happi with it .
+Lancaster: the mobl dev is innov and user-friendly . i ’ m very happy with it .
+Krovetz: the mobile device is innovate and user-friendly . i ’ m very happy with it .","SpaCy: the mobile device be innovative and user - friendly . I ’m very happy with it .
+TextBlob: The mobile device is innovative and user-friendly I ’ m very happy with it
+Stanza: the mobile device be innovative and user - friendly . I be very happy with it .
+WordNet: the mobile device be innovative and user-friendly . i ’ m very happy with it ."
+39,"Porter: great perform overal , though i notic some minor heat issu .
+Snowball: great perform overal , though i notic some minor heat issu .
+Lancaster: gre perform overal , though i not som min heat issu .
+Krovetz: great performance overall , though i notice some minor heating issue .","SpaCy: great performance overall , though I notice some minor heating issue .
+TextBlob: Great performance overall though I noticed some minor heating issue
+Stanza: great performance overall , though I notice some minor heating issue .
+WordNet: great performance overall , though i notice some minor heating issue ."
+40,"Porter: thi is one of the best smartphon i 've ever use . highli recommend !
+Snowball: this is one of the best smartphon i ve ever use . high recommend !
+Lancaster: thi is on of the best smartphon i 've ev us . high recommend !
+Krovetz: this is one of the best smartphone i 've ever use . highly recommend !","SpaCy: this be one of the good smartphone I have ever use . highly recommend !
+TextBlob: This is one of the best smartphones I 've ever used Highly recommend
+Stanza: this be one of the good smartphone I have ever use . highly recommend !
+WordNet: this be one of the best smartphones i 've ever use . highly recommend !"
+41,"Porter: the phone is extrem fast and the interfac is clean and simpl .
+Snowball: the phone is extrem fast and the interfac is clean and simpl .
+Lancaster: the phon is extrem fast and the interfac is cle and simpl .
+Krovetz: the phone is extremely fast and the interface is clean and simple .","SpaCy: the phone be extremely fast and the interface be clean and simple .
+TextBlob: The phone is extremely fast and the interface is clean and simple
+Stanza: the phone be extremely fast and the interface be clean and simple .
+WordNet: the phone be extremely fast and the interface be clean and simple ."
+42,"Porter: a premium experi with excel batteri life and perform .
+Snowball: a premium experi with excel batteri life and perform .
+Lancaster: a prem expery with excel battery lif and perform .
+Krovetz: a premium experience with excellent battery life and performance .","SpaCy: a premium experience with excellent battery life and performance .
+TextBlob: A premium experience with excellent battery life and performance
+Stanza: a premium experience with excellent battery life and performance .
+WordNet: a premium experience with excellent battery life and performance ."
+43,"Porter: the design is impress but i had to wait for an updat to fix a bug .
+Snowball: the design is impress but i had to wait for an updat to fix a bug .
+Lancaster: the design is impress but i had to wait for an upd to fix a bug .
+Krovetz: the design is impressive but i had to wait for an update to fix a bug .","SpaCy: the design be impressive but I have to wait for an update to fix a bug .
+TextBlob: The design is impressive but I had to wait for an update to fix a bug
+Stanza: the design be impressive but I have to wait for a update to fix a bug .
+WordNet: the design be impressive but i have to wait for an update to fix a bug ."
+44,"Porter: a well-round phone with robust featur , perfect for work and play .
+Snowball: a well-round phone with robust featur , perfect for work and play .
+Lancaster: a well-rounded phon with robust feat , perfect for work and play .
+Krovetz: a well-rounded phone with robust features , perfect for work and play .","SpaCy: a well - rounded phone with robust feature , perfect for work and play .
+TextBlob: A well-rounded phone with robust feature perfect for work and play
+Stanza: a well - round phone with robust feature , perfect for work and play .
+WordNet: a well-rounded phone with robust feature , perfect for work and play ."
+45,"Porter: the display qualiti is except , but i wish the phone came in more color .
+Snowball: the display qualiti is except , but i wish the phone came in more color .
+Lancaster: the display qual is exceiv , but i wish the phon cam in mor col .
+Krovetz: the display quality is exceptional , but i wish the phone came in more colors .","SpaCy: the display quality be exceptional , but I wish the phone come in more color .
+TextBlob: The display quality is exceptional but I wish the phone came in more color
+Stanza: the display quality be exceptional , but I wish the phone come in more color .
+WordNet: the display quality be exceptional , but i wish the phone come in more color ."
+46,"Porter: i am impress with the speed and overal perform of the phone .
+Snowball: i am impress with the speed and overal perform of the phone .
+Lancaster: i am impress with the spee and overal perform of the phon .
+Krovetz: i am impress with the speed and overall performance of the phone .","SpaCy: I be impressed with the speed and overall performance of the phone .
+TextBlob: I am impressed with the speed and overall performance of the phone
+Stanza: I be impressed with the speed and overall performance of the phone .
+WordNet: i be impress with the speed and overall performance of the phone ."
+47,"Porter: good valu for money with it high perform and eleg design .
+Snowball: good valu for money with it high perform and eleg design .
+Lancaster: good valu for money with it high perform and eleg design .
+Krovetz: good value for money with its high performance and elegant design .","SpaCy: good value for money with its high performance and elegant design .
+TextBlob: Good value for money with it high performance and elegant design
+Stanza: good value for money with its high performance and elegant design .
+WordNet: good value for money with it high performance and elegant design ."
+48,"Porter: a highli capabl devic that meet my need for both work and entertain .
+Snowball: a high capabl devic that meet my need for both work and entertain .
+Lancaster: a high cap dev that meet my nee for both work and entertain .
+Krovetz: a highly capable device that meet my needs for both work and entertainment .","SpaCy: a highly capable device that meet my need for both work and entertainment .
+TextBlob: A highly capable device that meet my need for both work and entertainment
+Stanza: a highly capable device that meet my need for both work and entertainment .
+WordNet: a highly capable device that meet my need for both work and entertainment ."
+49,"Porter: the phone offer a fantast user experi , though it could use addit custom option .
+Snowball: the phone offer a fantast user experi , though it could use addit custom option .
+Lancaster: the phon off a fantast us expery , though it could us addit custom opt .
+Krovetz: the phone offer a fantastic user experience , though it could use additional custom option .","SpaCy: the phone offer a fantastic user experience , though it could use additional customization option .
+TextBlob: The phone offer a fantastic user experience though it could use additional customization option
+Stanza: the phone offer a fantastic user experience , though it could use additional customization option .
+WordNet: the phone offer a fantastic user experience , though it could use additional customization option ."
+50,"Porter: outstand perform , brilliant camera , and a sleek design that stand out .
+Snowball: outstand perform , brilliant camera , and a sleek design that stand out .
+Lancaster: outstand perform , bril camer , and a sleek design that stand out .
+Krovetz: outstanding performance , brilliant camera , and a sleek design that stand out .","SpaCy: outstanding performance , brilliant camera , and a sleek design that stand out .
+TextBlob: Outstanding performance brilliant camera and a sleek design that stand out
+Stanza: outstanding performance , brilliant camera , and a sleek design that stand out .
+WordNet: outstanding performance , brilliant camera , and a sleek design that stand out ."
