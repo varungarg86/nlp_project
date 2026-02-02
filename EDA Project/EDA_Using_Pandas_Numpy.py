@@ -37,6 +37,29 @@ df.describe
 # Check for missing values
 print("\nMissing Values Before Handling:\n", df.isnull().sum())
 
+# Show box plot and scatter plot to visualize outliers
+import matplotlib.pyplot as plt
+import seaborn as sns       
+plt.figure(figsize=(12, 5))
+plt.subplot(1, 2, 1)
+sns.boxplot(x=df['PurchaseAmount'])
+plt.title('Box Plot of Purchase Amount')     
+
+# Scatter plot
+plt.subplot(1, 2, 2)
+plt.scatter(x=df.index, y=df['PurchaseAmount'])
+plt.title('Scatter Plot of Purchase Amount')
+plt.xlabel('Index')
+plt.ylabel('Purchase Amount')
+plt.show()  
+
+# Z-score method to identify outliers
+from scipy import stats     
+z_scores = np.abs(stats.zscore(df['PurchaseAmount'].dropna()))
+outliers = df['PurchaseAmount'][z_scores > 3]
+print("\nOutliers Detected in Purchase Amount using Z-score method:\n", outliers
+)
+
 
 # Strategy 1: Fill missing Income with the median value (better for skewed data)
 df['Income'].fillna(df['Income'].median(), inplace=True)
