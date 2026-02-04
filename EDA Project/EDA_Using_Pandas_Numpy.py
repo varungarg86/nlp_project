@@ -22,6 +22,8 @@
 
 import pandas as pd
 import numpy as np
+import matplotlib.pyplot as plt
+import seaborn as sns    
 
 # Load the dataset
 df = pd.read_csv("customer_purchase_behavior.csv")
@@ -29,17 +31,25 @@ df = pd.read_csv("customer_purchase_behavior.csv")
 # Display first few rows to understand the dataset
 print("Initial Dataset:\n", df.head())
 
+# Showing Heat Map - Correlation Matrix
+corr_matrix = df.select_dtypes(include=np.number).corr()
+print("\nCorrelation Matrix:\n", corr_matrix)   
+plt.figure(figsize=(8,6))
+sns.heatmap(corr_matrix, annot=True, cmap="coolwarm", fmt=".2f")
+plt.title("Feature Correlation Matrix")
+plt.show()
+
+
 df.shape
 
 
-df.describe
+df.describe()
 
 # Check for missing values
 print("\nMissing Values Before Handling:\n", df.isnull().sum())
 
 # Show box plot and scatter plot to visualize outliers
-import matplotlib.pyplot as plt
-import seaborn as sns       
+   
 plt.figure(figsize=(12, 5))
 plt.subplot(1, 2, 1)
 sns.boxplot(x=df['PurchaseAmount'])
